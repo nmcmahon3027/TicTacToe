@@ -32,8 +32,22 @@ public class TicTacToeFrameTest {
     public void setTextOnTie() {
         String str = "Tie game! Game Over!";
         assertEquals("Tie game! Game Over!", str);
+
     }
 
+    @Test
+    public void testClickOutput() {
+    }
+
+    @Test
+    public void testResponseOnClick() {
+
+    }
+
+    @Test
+    public void testResponseTime() {
+
+    }
 }
 
 //expected, actual 
